@@ -9,7 +9,7 @@
 
 ###🛠️📚Ferramentas e Linguagens que domino
 
-![C]<img 
+<img 
     align= "left"
     alt= "C"
     title= "C"
