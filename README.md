@@ -3,7 +3,7 @@
     Me chamo Gustavo Rodrigues e Sousa, tenho 18 anos e sou natural de Brasília.
    
  <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href=">
          <img alt="Instagram" title="Veja meu Instagram" src="belColor=CE4630"/></a>
    </p>
 
