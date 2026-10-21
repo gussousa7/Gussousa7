@@ -7,13 +7,13 @@
          <img alt="Instagram" title="Veja meu Instagram" src="belColor=CE4630"/></a>
    </p>
 
-###🛠️📚Ferramentas e Linguagens que domino
+###🛠️📚Ferramentas e Linguagens que estou aprendendo e uso
 
-<img 
-    align= "left"
-    alt= "C"
-    title= "C"
-    width= "30px"
-    style= "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"
-/>
+<table> 
+	<tr> 
+<td align="center" width="120"> <img src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg width="60" height="60" alt="C" /> <br />C </td> 
+<td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" /> <br />C++ </td>
+<td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" /> <br />Java </td>
+<td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" /> <br />Python </td> 
+</tr> 
+</table>
